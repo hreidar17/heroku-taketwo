@@ -1,0 +1,19 @@
+{
+  "name": "herokutaketwo",
+  "version": "1.0.0",
+  "description": "heroku test with script",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hreidar17/herokuTakeTwo.git"
+  },
+  "author": "hreidar17",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hreidar17/herokuTakeTwo/issues"
+  },
+  "homepage": "https://github.com/hreidar17/herokuTakeTwo#readme"
+}
